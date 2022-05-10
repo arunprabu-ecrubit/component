@@ -22,7 +22,7 @@
     "component-search2": "^1.1.1",
     "component-updater": "^1.0.4",
     "component-watcher": "^1.0.1",
-    "component-remotes": "^1.2.0",
+    "component-remotes": "https://github.com/arunprabu-ecrubit/remotes.js.git",
     "commander": "^2.2.0",
     "semver": "^2.2.1",
     "mkdirp": "~0.3.5",
